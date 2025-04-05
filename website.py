@@ -13,7 +13,7 @@ CLASS_NAMES = ["Glioma", "Meningioma", "No Tumor", "Pituitary"]
 
 
 #this code is used for spiliting the large keras file 
-#def split_file(file_path, chunk_size_mb=99):
+#def split_file(file_path, chunk_size_mb=49):
 #    chunk_size = chunk_size_mb * 1024 * 1024  
 #    with open(file_path, 'rb') as f:
 #        chunk_num = 0
